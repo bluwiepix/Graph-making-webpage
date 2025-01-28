@@ -1,6 +1,4 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
+
 
 import matplotlib.pyplot as plt
 from required_funcs import data_file,input_data
